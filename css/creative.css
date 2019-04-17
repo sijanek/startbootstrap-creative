@@ -10665,8 +10665,8 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(231, 215, 202, 0.568)), to(rgba(231, 215, 202, 0.8))), url("../img/dc-218.jpg");
-  background: linear-gradient(to bottom, rgba(231, 215, 202, 0.8) 0%, rgba(231, 215, 202, 0.8) 100%), url("../img/dc-218.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(206, 193, 184, 0.8)), to(rgba(92, 77, 66, 0.8))), url("../img/dc-218.jpg");
+  background: linear-gradient(to bottom, rgba(204, 206, 226, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/dc-218.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
